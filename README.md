@@ -16,8 +16,11 @@ The source is public and you can take it. But please, give to me the **Credits**
 ## NPM's Packages.
 
 https://npmjs.org/package/colors
+
 https://npmjs.org/package/util
+
 https://npmjs.org/package/readline-sync
+
 https://npmjs.org/package/file-encryptor-2
 
 ## Decrypt
