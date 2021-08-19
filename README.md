@@ -30,7 +30,7 @@ How to do it? It's all explained in https://npmjs.org/package/file-encryptor-2.
 
 ## Warning
 
-I am not legally responsable of your actions with this tool.
+I am not legally responsable of your actions with this tool. I made that for Educal Purposes only.
 
 ## Final Part
 
